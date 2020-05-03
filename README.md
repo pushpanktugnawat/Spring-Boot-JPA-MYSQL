@@ -32,6 +32,7 @@ INTERNET BROWSER [FOR SEEING SWAGGER CONTRACT]
 MYSQL
 Eclipse [for code walkthrough]
 ```
+Please create a Database Schema in Mysql named as "boot_starter"
 
 ## Built With
 
